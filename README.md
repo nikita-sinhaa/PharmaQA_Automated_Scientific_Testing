@@ -1,5 +1,5 @@
 # PharmaQA Automated Scientific Testing
-PharmaQA is a beginner-friendly quality assurance project that simulates a real-world pharmaceutical software testing scenario.
+PharmaQA is a beginner friendly quality assurance project that simulates a real-world pharmaceutical software testing scenario.
 
 It covers:
 - Writing scientific test cases in Python
