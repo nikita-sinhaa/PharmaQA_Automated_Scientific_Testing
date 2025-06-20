@@ -1,4 +1,4 @@
-# PharmaQA_Automated_Scientific_Testing
+# PharmaQA Automated Scientific Testing
 PharmaQA is a beginner-friendly quality assurance project that simulates a real-world pharmaceutical software testing scenario.
 
 It covers:
